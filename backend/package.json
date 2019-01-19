@@ -1,0 +1,19 @@
+{
+  "name": "yt-audio-server",
+  "version": "1.0.0",
+  "description": "audio server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "heroku",
+    "youtube"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "youtube-audio-server": "^2.3.0"
+  }
+}
